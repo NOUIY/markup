@@ -126,10 +126,10 @@ DEPENDENCIES
   html-pipeline (~> 1.0)
   kramdown
   minitest (~> 5.4, >= 5.4.3)
-  nokogiri (~> 1.19)
+  nokogiri (~> 1.19.2)
   nokogiri-diff (~> 0.3.0)
   org-ruby (= 0.9.12)
-  rake
+  rake (~> 13)
   rdoc (~> 6.13.1)
   redcarpet
   rexml
